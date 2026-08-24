@@ -47,3 +47,13 @@ SQL Analysis using SQLite in Jupyter notebook
 Power BI Dashboard
      ↓
 Business Insights
+
+## 📊 Power BI Dashboard
+
+### Dashboard Overview
+
+![Power BI Dashboard](Screenshots/Dashboard_1.png)
+
+### Job Market & Salary Analysis
+
+![Job Market Analysis](Screenshots/Dashboard_2.png)
