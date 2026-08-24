@@ -52,8 +52,8 @@ Business Insights
 
 ### Dashboard Overview
 
-![Power BI Dashboard](Screenshots/Dashboard 1.png)
+![Power BI Dashboard](Screenshots/Dashboard_1.png)
 
 ### Job Market & Salary Analysis
 
-![Job Market Analysis](Screenshots/Dashboard 2.png)
+![Job Market Analysis](Screenshots/Dashboard_2.png)
