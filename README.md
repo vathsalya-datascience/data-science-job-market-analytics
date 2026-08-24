@@ -54,6 +54,6 @@ Business Insights
 
 ![Power BI Dashboard](Screenshots/Dashboard_1.png)
 
-### Job Market & Salary Analysis
+### Job Market & Salary Analysis for entry level experience 
 
 ![Job Market Analysis](Screenshots/Dashboard_2.png)
